@@ -1,0 +1,12 @@
+Types of data used for I/O:
+- Text: '12345' as a sequence of unicode chars
+- Binary: 12345 as a sequence of bytes of it's binary equivalent 
+
+Hence there are 2 file types to deal with
+- Text files: All Program files are text files
+- Binary files : Images, Music, Video , Exe files
+
+How File I/O is done in most Programming languages 
+- Open a file
+- Read /Write data
+- Close a file
